@@ -38,7 +38,7 @@
       "name": "[variables('publicIPName')]",
       "location": "[parameters('location')]",
       "sku": {
-        "name": "Basic"
+        "name": "Standard"
       },
       "properties": {
         "publicIPAllocationMethod": "Dynamic"
