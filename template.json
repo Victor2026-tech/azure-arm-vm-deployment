@@ -132,7 +132,8 @@
       ],
       "properties": {
         "hardwareProfile": {
-          "vmSize": "Standard_B1s"
+    "vmSize": "Standard_B1ms"
+}
         },
 
         "osProfile": {
