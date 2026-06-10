@@ -133,9 +133,7 @@
       "properties": {
         "hardwareProfile": {
     "vmSize": "Standard_B1ms"
-}
-        },
-
+},
         "osProfile": {
           "computerName": "[parameters('vmName')]",
           "adminUsername": "[parameters('adminUsername')]",
