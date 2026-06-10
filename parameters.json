@@ -15,9 +15,8 @@
       "value": "Password@123456"
     },
 
-   "location": {
-    "value": "centralus"
-}
+    "location": {
+      "value": "centralus"
     }
   }
 }
